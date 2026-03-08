@@ -60,3 +60,4 @@ git fetch --prune: Clean remote references
 
 git branch -d new-branch: Delete the local new-branch
 
+git branch -D new-branch: Force delete the local new-branch
