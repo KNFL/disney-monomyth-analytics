@@ -30,7 +30,7 @@ Complete workflow learned. The standard Git workflow is as follows:
 
 cd project: Changes the current directory to the specified location.
 
-cd status: Shows the status of files in the working directory and staging area (e.g., untracked, modified, staged).
+git status: Shows the status of files in the working directory and staging area (e.g., untracked, modified, staged).
 
 git pull: Fetches changes from the remote repository and merges them into your current local branch.
 
